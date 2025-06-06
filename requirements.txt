@@ -6,4 +6,4 @@ matplotlib
 scikit-learn
 tensorflow
 opencv-python
-ipython         
+ipython
