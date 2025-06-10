@@ -7,20 +7,42 @@ This project aims to classify urban sound recordings into predefined categories 
 ## 📌 Table of Contents
 
 - [🎯 Introduction](#-introduction)
-- [📊 Performance Comparison](#-performance-comparison)
-- [📈 Confusion Matrices](#-confusion-matrices)
-- [🧪 Training & Testing Accuracy](#-training--testing-accuracy)
-- [🖥️ Web App Screenshots](#-web-app-screenshots)
-- [📄 Project Report](#-project-report)
-- [🚀 Run the Project](#-run-the-project)
 - [📁 Dataset](#-dataset)
 - [🛠️ Technologies Used](#-technologies-used)
+- [📊 Performance Comparison](#-performance-comparison)
+- [📈 Confusion Matrices](#-confusion-matrices)
+- [🧪 Training & Testing Accuracy Graphs](#-training--testing-accuracy-graphs)
+- [🧪 Training & Testing Loss Graphs](#-training--testing-loss-graphs)
+- [🖥️ Web App Screenshots](#-web-app-screenshots)
+- [📄 Project Report](#-project-report)
 
 ---
 
 ## 🎯 Introduction
 
 Urban environments are full of distinctive sounds—car horns, sirens, dog barks, drilling, etc. This project leverages deep learning techniques to classify such environmental audio samples from the **UrbanSound8K dataset**. The system can aid in **smart city solutions**, **noise pollution analysis**, and **automatic tagging systems**.
+
+---
+
+## 📁 Dataset
+
+- **UrbanSound8K**: 8732 labeled audio clips (≤4s) from 10 urban classes.  
+- [Download Link](https://urbansounddataset.weebly.com/urbansound8k.html)  
+- Classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, engine_idling, gun_shot, jackhammer, siren, street_music  
+- Preprocessing: MFCC, Mel-spectrogram, zero-padding
+
+---
+
+## 🛠️ Technologies Used
+
+- **Languages**: Python  
+- **Audio**: Librosa, SoundFile  
+- **Models**: TensorFlow, PyTorch, Hugging Face Transformers  
+- **Visualization**: Matplotlib, Seaborn  
+- **Web App**: Streamlit  
+- **Other**: NumPy, Pandas, OpenCV
+
+---
 
 The models evaluated:
 - 🔷 CNN (1D)
