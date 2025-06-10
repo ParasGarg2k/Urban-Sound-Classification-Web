@@ -33,6 +33,8 @@ Urban environments are full of distinctive sounds—car horns, sirens, dog barks
 
 ---
 
+
+
 ## 🛠️ Technologies Used
 
 - **Languages**: Python  
@@ -74,9 +76,9 @@ The models evaluated:
 
 ---
 
+
 ## 🖥️ Web App Screenshots
 ![Web App Screenshots](images/web.png)
-
 
 ---
 
