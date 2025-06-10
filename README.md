@@ -67,7 +67,7 @@ The complete report detailing:
 - Evaluation metrics (confusion matrix, precision, recall, F1)
 - Challenges and future improvements
 
-📄 **[Download Report (PDF)](report/Urban_Sound_Report.pdf)**
+📄 **[Download Report (PDF)](https://drive.google.com/file/d/11fzHFheMiMHPoa5fUgXUtKWEmnHu1PKq/view?usp=drive_link)**
 
 ---
 
