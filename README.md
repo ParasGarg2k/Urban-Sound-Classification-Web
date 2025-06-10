@@ -31,29 +31,29 @@ The models evaluated:
 ---
 
 ## 📊 Performance Comparison
-![Performance Comparison](images/Screenshot 2025-06-10 094837.png)
+![Performance Comparison](images/comp.png)
 
 
 ---
 
 ## 📈 Confusion Matrices
-![Confusion Matrices](images/Screenshot 2025-06-10 094837.png)
+![Confusion Matrices](images/conf.png)
 
 
 ---
 
 ## 🧪 Training & Testing Accuracy Graphs
-![Training & Testing Accuracy Graphs](images/Screenshot 2025-06-10 094837.png)
+![Training & Testing Accuracy Graphs](images/acc.png)
 
 ---
 
 ## 🧪 Training & Testing Loss Graphs
-![Training & Testing Loss Graphs](images/Screenshot 2025-06-10 094837)
+![Training & Testing Loss Graphs](images/loss.png)
 
 ---
 
 ## 🖥️ Web App Screenshots
-![Web App Screenshots](images/Screenshot 2025-06-10 094837)
+![Web App Screenshots](images/web.png)
 
 
 ---
